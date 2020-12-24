@@ -1,2 +1,2 @@
-# ipcs
-IPCam-Scanner Versi 2 BY HASSAN
+# scan
+CAN Scanner Versi 2 BY HASSAN
